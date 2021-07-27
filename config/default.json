@@ -1,0 +1,6 @@
+{
+  "mongoUrl": "mongodb+srv://admin-lingesh:lingesh123@cluster0.cf3az.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "mySecretToken",
+  "githubClientId": "ff5e095eb6aa1640f280",
+  "githubClientSecret": "db83a45d64b7a60e308f2761b5c81da61995b6e5"
+}
